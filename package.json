@@ -1,19 +1,21 @@
 {
-  "name": "generator-react-bundle",
-  "version": "0.0.0",
+  "name": "generator-mnd-react-bundle",
+  "version": "1.0.0",
   "description": "Generate a new react bundle for you",
   "homepage": "",
   "author": {
     "name": "Nicolas MEDDA",
-    "email": "nicolas.medda@ling.fr",
-    "url": ""
+    "email": "nicolas.medda@mynewsdesk.com",
+    "url": "http://mynewsdesk.com"
   },
   "files": [
     "generators"
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
+    "react_on_rails",
+    "react",
+    "react-bundle",
     "yeoman-generator"
   ],
   "dependencies": {
