@@ -1,4 +1,4 @@
-# generator-react-bundle [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-react-bundle [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Generate a new react bundle for you
 
 ## Installation
