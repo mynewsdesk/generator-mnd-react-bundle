@@ -3,17 +3,17 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-react-bundle using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-mnd-react-bundle using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-react-bundle
+npm install -g generator-mnd-react-bundle
 ```
 
-Then generate your new project:
+It generate a bundle structure to work with [react_on_rails](https://github.com/shakacode/react_on_rails) with some tweaks for [Mynewsdesk](https://www.mynewsdesk.com)
 
 ```bash
-yo react-bundle
+yo mnd-react-bundle
 ```
 
 ## Getting To Know Yeoman
@@ -25,12 +25,10 @@ yo react-bundle
 
 ## License
 
-MIT © [Nicolas MEDDA]()
+MIT © [mynewsdesk]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-react-bundle.svg
-[npm-url]: https://npmjs.org/package/generator-react-bundle
-[travis-image]: https://travis-ci.org/mynewsdesk/generator-react-bundle.svg?branch=master
-[travis-url]: https://travis-ci.org/mynewsdesk/generator-react-bundle
-[daviddm-image]: https://david-dm.org/mynewsdesk/generator-react-bundle.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/mynewsdesk/generator-react-bundle
+[npm-image]: https://badge.fury.io/js/generator-mnd-react-bundle.svg
+[npm-url]: https://npmjs.org/package/generator-mnd-react-bundle
+[daviddm-image]: https://david-dm.org/mynewsdesk/generator-mnd-react-bundle.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/mynewsdesk/generator-mnd-react-bundle
